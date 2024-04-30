@@ -15,7 +15,7 @@
     <form method="post" action="index.php" style="width:50%;">
         <label for="name" class="form-label m-1">Назва готелю</label>
         <input type="text" class="form-control m-1" name="name" placeholder="Введіть ALL для виводу всіх рядків">
-        <button type="submit" class="btn btn-primary m-1">Submit</button>
+        <button type="submit" class="btn btn-primary m-1">Пошук</button>
     </form>
     <table class="table table-striped">
       <tr>
